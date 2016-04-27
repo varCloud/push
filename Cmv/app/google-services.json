@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "437422608060",
+    "project_id": "pushnotifycaja"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437422608060:android:f36173e948059ccb",
+        "android_client_info": {
+          "package_name": "com.example.rexv666480.cmv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH-hyT1qQmhOSKrcpMPEr_7iIbXtSzO0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

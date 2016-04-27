@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calendario de Pagos</string>
+    <string name="action_settings">Settings</string>
+    <string name="tipoPtmo">Tipos de Prestamos</string>
+    <string name="monto">Monto :</string>
+    <string name="plazo">Plazo :</string>
+    <string name="tasa">Tasa :</string>
+    <string name="quincenal">Quincenal </string>
+    <string name="Mensual">Mensual</string>
+    <string name="FrecPago">Frecuencia Pago</string>
+    <string name="generar">Calcular Calendario</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
